@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  TableView
 //
 //  Created by CHO INTACK on 2015/09/11.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface TableViewController : UITableViewController
+{
+    NSArray *sectionData;
+}
 @end
-
