@@ -19,6 +19,9 @@
     [super viewDidLoad];
     
     /* this is commit test */
+    /* this is feature */
+    /* feature2 */
+    /* feature3 */
     NSArray *sec1 = [[NSArray alloc] initWithObjects:@"TELECOM", @"DOCOMO", @"AU", @"SBANK", nil];
     NSArray *sec2 = [[NSArray alloc] initWithObjects:@"ANIMAL", @"HUMAN", @"MONKEY", @"SARU", nil];
     NSArray *sec3 = [[NSArray alloc] initWithObjects:@"CAR", @"NISSAN", @"DOYOTA", @"SIBARU", nil];
