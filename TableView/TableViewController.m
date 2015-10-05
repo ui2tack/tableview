@@ -34,6 +34,7 @@
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
     /* hotfix */
     /* hotfix2 */
+    /*new merge*/
 }
 - (IBAction)showBtn:(id)sender {
 }
